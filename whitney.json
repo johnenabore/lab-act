@@ -10,6 +10,7 @@
       "text": "<p>Machine learning, a cornerstone of modern artificial intelligence, has evolved through decades of groundbreaking contributions from brilliant minds like Alan Turing, Geoffrey Hinton, and others. From Turing's foundational work in computing to the rise of deep learning, this journey traces the pivotal moments and breakthroughs that have shaped the landscape of intelligent systems today.</p>"
     }
   },
+  {
   "events": [
     {
       "media": {
@@ -126,4 +127,6 @@
       }
     }
   ]
+
+
 }
