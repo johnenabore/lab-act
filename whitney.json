@@ -187,7 +187,8 @@
       "year": "1997",
       "url": "https://www.nytimes.com/1997/05/12/news/kasparov-loses-chess-game-to-computer.html"
     },
-    "media": {
+    {
+      "media": {
         "url": "https://global.oup.com/academic/product/the-essential-turing-9780198250791",
         "caption": "Book cover of The Essential Turing",
         "credit": "Copeland, B. J. (2004)"
