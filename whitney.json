@@ -186,6 +186,101 @@
       "author": "Markoff, J.",
       "year": "1997",
       "url": "https://www.nytimes.com/1997/05/12/news/kasparov-loses-chess-game-to-computer.html"
+    },
+    "media": {
+        "url": "https://global.oup.com/academic/product/the-essential-turing-9780198250791",
+        "caption": "Book cover of The Essential Turing",
+        "credit": "Copeland, B. J. (2004)"
+      },
+      "start_date": { "year": "2004" },
+      "text": {
+        "headline": "The Essential Turing",
+        "text": "<p>Copeland, B. J. (2004). <i>The essential Turing</i>. Oxford University Press.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://history-computer.com/people/arthur-samuel-biography-history-and-inventions/",
+        "caption": "Alan Turing and early computing history",
+        "credit": "History Computer (n.d.)"
+      },
+      "start_date": { "year": "n.d." },
+      "text": {
+        "headline": "Alan Turing Biography, History and Inventions",
+        "text": "<p>History Computer. (n.d.). Alan Turing biography, history and inventions. Retrieved from https://history-computer.com/people/arthur-samuel-biography-history-and-inventions/</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://doi.org/10.1147/rd.33.0210",
+        "caption": "Samuel’s foundational paper on machine learning",
+        "credit": "Samuel, A. L. (1959)"
+      },
+      "start_date": { "year": "1959" },
+      "text": {
+        "headline": "Some Studies in Machine Learning Using the Game of Checkers",
+        "text": "<p>Samuel, A. L. (1959). Some studies in machine learning using the game of checkers. <i>IBM Journal of Research and Development, 3</i>(3), 210–229. https://doi.org/10.1147/rd.33.0210</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://medium.com/ibm-data-ai/the-first-of-its-kind-ai-model-samuels-checkers-playing-program-1b712fa4ab96",
+        "caption": "Medium article on Samuel’s program",
+        "credit": "IBM Data & AI (2020)"
+      },
+      "start_date": { "year": "2020" },
+      "text": {
+        "headline": "The First-of-its-Kind AI Model: Samuel’s Checkers-Playing Program",
+        "text": "<p>IBM Data & AI. (2020). The first-of-its-kind AI model: Samuel’s checkers-playing program. Retrieved from https://medium.com/ibm-data-ai/the-first-of-its-kind-ai-model-samuels-checkers-playing-program-1b712fa4ab96</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://doi.org/10.1038/323533a0",
+        "caption": "Backpropagation algorithm paper",
+        "credit": "Rumelhart, Hinton, & Williams (1986)"
+      },
+      "start_date": { "year": "1986" },
+      "text": {
+        "headline": "Learning Representations by Back-Propagating Errors",
+        "text": "<p>Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. <i>Nature, 323</i>(6088), 533–536. https://doi.org/10.1038/323533a0</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://doi.org/10.1016/S0004-3702(01)00129-1",
+        "caption": "Deep Blue overview",
+        "credit": "Campbell, Hoane, & Hsu (2002)"
+      },
+      "start_date": { "year": "2002" },
+      "text": {
+        "headline": "Deep Blue",
+        "text": "<p>Campbell, M., Hoane, A. J., & Hsu, F. H. (2002). Deep Blue. <i>Artificial Intelligence, 134</i>(1–2), 57–83. https://doi.org/10.1016/S0004-3702(01)00129-1</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://doi.org/10.1145/3065386",
+        "caption": "AlexNet ImageNet breakthrough paper",
+        "credit": "Krizhevsky, Sutskever, & Hinton (2012)"
+      },
+      "start_date": { "year": "2012" },
+      "text": {
+        "headline": "ImageNet Classification with Deep Convolutional Neural Networks",
+        "text": "<p>Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. <i>Communications of the ACM, 60</i>(6), 84–90. https://doi.org/10.1145/3065386</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://doi.org/10.1038/nature16961",
+        "caption": "AlphaGo Nature paper",
+        "credit": "Silver et al. (2016)"
+      },
+      "start_date": { "year": "2016" },
+      "text": {
+        "headline": "Mastering the Game of Go with Deep Neural Networks and Tree Search",
+        "text": "<p>Silver, D., Huang, A., Maddison, C. J., et al. (2016). Mastering the game of Go with deep neural networks and tree search. <i>Nature, 529</i>(7587), 484–489. https://doi.org/10.1038/nature16961</p>"
+      }
     }
   ]
 }
