@@ -138,32 +138,54 @@
         "headline": "AlphaGo Defeats Lee Sedol, Showcasing AI’s Strategic Power",
         "text": "<p>In March 2016, **Google DeepMind's AlphaGo** defeated world champion **Lee Sedol** in a historic five-game match of Go. AlphaGo, powered by **deep reinforcement learning**, showcased the immense power of AI in mastering complex, strategic games that were previously thought to be too difficult for machines to conquer. The victory marked a pivotal moment in AI research, demonstrating the potential for AI to outperform human expertise in games requiring intuition and deep strategy.</p>"
       }
-    }
-  ],
-  "references": [
-    {
-      "citation": "Copeland, B. J. (2004). *The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life*. Oxford University Press."
     },
     {
-      "citation": "History Computer. (n.d.). *Alan Turing biography, history and inventions*. Retrieved from https://history-computer.com/people/arthur-samuel-biography-history-and-inventions/"
+      "title": "The essential Turing",
+      "author": "Copeland, B. J.",
+      "year": "2004",
+      "url": "https://global.oup.com/academic/product/the-essential-turing-9780198250791"
     },
     {
-      "citation": "Samuel, A. L. (1959). Some studies in machine learning using the game of checkers. *IBM Journal of Research and Development, 3*(3), 210–229. https://doi.org/10.1147/rd.33.0210"
+      "title": "Alan Turing biography, history and inventions",
+      "author": "History Computer",
+      "year": "n.d.",
+      "url": "https://history-computer.com/people/arthur-samuel-biography-history-and-inventions/"
     },
     {
-      "citation": "IBM Data & AI. (2020, March 4). *The first-of-its-kind AI model: Samuel’s checkers-playing program*. Medium. https://medium.com/ibm-data-ai/the-first-of-its-kind-ai-model-samuels-checkers-playing-program-1b712fa4ab96"
+      "title": "Some studies in machine learning using the game of checkers",
+      "author": "Samuel, A. L.",
+      "year": "1959",
+      "url": "https://doi.org/10.1147/rd.33.0210"
     },
     {
-      "citation": "Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. *Nature, 323*(6088), 533–536. https://doi.org/10.1038/323533a0"
+      "title": "The first-of-its-kind AI model: Samuel’s checkers-playing program",
+      "author": "IBM Data & AI",
+      "year": "2020",
+      "url": "https://medium.com/ibm-data-ai/the-first-of-its-kind-ai-model-samuels-checkers-playing-program-1b712fa4ab96"
     },
     {
-      "citation": "Radical VC. (2023, August 12). *Geoffrey Hinton on the algorithm powering modern AI*. https://radical.vc/geoffrey-hinton-on-the-algorithm-powering-modern-ai/"
+      "title": "Learning representations by back-propagating errors",
+      "author": "Rumelhart, D. E., Hinton, G. E., & Williams, R. J.",
+      "year": "1986",
+      "url": "https://doi.org/10.1038/323533a0"
     },
     {
-      "citation": "Campbell, M., Hoane, A. J., & Hsu, F. H. (2002). Deep Blue. *Artificial Intelligence, 134*(1–2), 57–83. https://doi.org/10.1016/S0004-3702(01)00129-1"
+      "title": "Geoffrey Hinton on the algorithm powering modern AI",
+      "author": "Radical VC",
+      "year": "2023",
+      "url": "https://radical.vc/geoffrey-hinton-on-the-algorithm-powering-modern-ai/"
     },
     {
-      "citation": "Markoff, J. (1997, May 12). *Kasparov loses chess game to computer*. The New York Times. https://www.nytimes.com/1997/05/12/news/kasparov-loses-chess-game-to-computer.html"
+      "title": "Deep Blue",
+      "author": "Campbell, M., Hoane, A. J., & Hsu, F. H.",
+      "year": "2002",
+      "url": "https://doi.org/10.1016/S0004-3702(01)00129-1"
+    },
+    {
+      "title": "Kasparov loses chess game to computer",
+      "author": "Markoff, J.",
+      "year": "1997",
+      "url": "https://www.nytimes.com/1997/05/12/news/kasparov-loses-chess-game-to-computer.html"
     }
   ]
 }
